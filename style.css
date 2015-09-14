@@ -28,6 +28,7 @@ nav{
     right: 0;
     top: 4em;
     border: 1px;
+
 }
 
 nav ul li{
@@ -47,6 +48,7 @@ nav ul li a:visited{
     text-shadow: 0 1px 1px white;
     text-transform: capitalize;
     font-family: cursive;
+    width: 60px;
     
 }
 
